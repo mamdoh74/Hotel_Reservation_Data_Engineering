@@ -1,0 +1,1 @@
+exec populate_date_dim '2015-01-01' , '2020-12-31'

@@ -1,0 +1,1 @@
+select top(9638) * from Main_Table
